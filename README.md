@@ -1,2 +1,1 @@
-# Cambio
-Este es un repositorio del modulo 2 de prepcourse de Henry
+este proyecto es una prueba de como crear un repositorio y clonarlo en github a mi compu
